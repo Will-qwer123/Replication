@@ -62,9 +62,8 @@ Models were evaluated using:
 Feature importance analysis was conducted using XGBoost models with repeated bootstrap resampling.
 
 ## Repository Structure
-
 ```text
-data/       # Raw and processed datasets
-notebooks/  # Jupyter notebooks
-results/    # Figures and model outputs
-scripts/    # Python scripts
+Plots/      # Feature importance figures
+code/       # Python scripts and notebooks
+raw/        # Raw datasets
+README.md
