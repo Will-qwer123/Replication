@@ -26,7 +26,6 @@ before and after mask mandates in Australia during the COVID-19 pandemic.
 The replication includes:
 
 - Data cleaning and preprocessing
-- Mask mandate period definition
 - Feature engineering
 - Machine learning modelling
 - Cross-validation and test set evaluation
